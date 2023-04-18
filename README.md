@@ -10,7 +10,8 @@ I am a student of applied mathematics who is passionate about programming and da
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kamek777&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kamek777&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamek777&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kamek777&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
