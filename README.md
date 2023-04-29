@@ -22,8 +22,6 @@ I am a student of applied mathematics who is passionate about programming and da
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kamek777&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kamek777&icon=7&color=1)](https://visitcount.itsvg.in)
