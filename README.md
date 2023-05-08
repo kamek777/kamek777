@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student of applied mathematics who is passionate about programming and data analysis. In the future I want to be a Data Analyst :)
+I am an applied mathematics student with a passion for programming and data analysis. In the future I want to become a data analyst, while at the moment I am looking for an internship for the summer :) 
 
 
 ## 🌐 Socials:
