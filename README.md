@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an applied mathematics student with a passion for programming and data analysis. In the future I want to become a senior data analyst/data scientist, while at the moment I am looking for an internship or junior data analyst / junior data scientist position :) \
+I am an applied mathematics student with a passion for programming and data analysis. In the future I want to become a senior data scientist, while at the moment I am working as a junior data analyst in EY Warsaw :) \
  My portfolio: \
 **[datascienceportfol.io/kamek777](https://www.datascienceportfol.io/kamek777)**
 
